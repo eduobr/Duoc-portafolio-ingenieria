@@ -1,0 +1,26 @@
+C:\Users\Zeit\Documents\Visual Studio 2015\Projects\NoMasAcc2.0\DALC_01\bin\Debug\DALC_01.dll.config
+C:\Users\Zeit\Documents\Visual Studio 2015\Projects\NoMasAcc2.0\DALC_01\bin\Debug\DALC_01.dll
+C:\Users\Zeit\Documents\Visual Studio 2015\Projects\NoMasAcc2.0\DALC_01\bin\Debug\DALC_01.pdb
+C:\Users\Zeit\Documents\Visual Studio 2015\Projects\NoMasAcc2.0\DALC_01\bin\Debug\EntityFramework.dll
+C:\Users\Zeit\Documents\Visual Studio 2015\Projects\NoMasAcc2.0\DALC_01\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Zeit\Documents\Visual Studio 2015\Projects\NoMasAcc2.0\DALC_01\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Zeit\Documents\Visual Studio 2015\Projects\NoMasAcc2.0\DALC_01\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Zeit\Documents\Visual Studio 2015\Projects\NoMasAcc2.0\DALC_01\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\Users\Zeit\Documents\Visual Studio 2015\Projects\NoMasAcc2.0\DALC_01\bin\Debug\EntityFramework.xml
+C:\Users\Zeit\Documents\Visual Studio 2015\Projects\NoMasAcc2.0\DALC_01\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Zeit\Documents\Visual Studio 2015\Projects\NoMasAcc2.0\DALC_01\obj\Debug\DALC_01.dll
+C:\Users\Zeit\Documents\Visual Studio 2015\Projects\NoMasAcc2.0\DALC_01\obj\Debug\DALC_01.pdb
+C:\Users\Zeit\Documents\Visual Studio 2015\Projects\NoMasAcc2.0\DALC_01\obj\Debug\DALC_01.csprojResolveAssemblyReference.cache
+D:\Respaldo\Respaldo Duoc\Portafolio Ingenieria\iteracion 3\NoMasAcc2.0\DALC_01\bin\Debug\DALC_01.dll.config
+D:\Respaldo\Respaldo Duoc\Portafolio Ingenieria\iteracion 3\NoMasAcc2.0\DALC_01\bin\Debug\DALC_01.dll
+D:\Respaldo\Respaldo Duoc\Portafolio Ingenieria\iteracion 3\NoMasAcc2.0\DALC_01\bin\Debug\DALC_01.pdb
+D:\Respaldo\Respaldo Duoc\Portafolio Ingenieria\iteracion 3\NoMasAcc2.0\DALC_01\bin\Debug\EntityFramework.dll
+D:\Respaldo\Respaldo Duoc\Portafolio Ingenieria\iteracion 3\NoMasAcc2.0\DALC_01\bin\Debug\EntityFramework.SqlServer.dll
+D:\Respaldo\Respaldo Duoc\Portafolio Ingenieria\iteracion 3\NoMasAcc2.0\DALC_01\bin\Debug\Oracle.DataAccess.dll
+D:\Respaldo\Respaldo Duoc\Portafolio Ingenieria\iteracion 3\NoMasAcc2.0\DALC_01\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Respaldo\Respaldo Duoc\Portafolio Ingenieria\iteracion 3\NoMasAcc2.0\DALC_01\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+D:\Respaldo\Respaldo Duoc\Portafolio Ingenieria\iteracion 3\NoMasAcc2.0\DALC_01\bin\Debug\EntityFramework.xml
+D:\Respaldo\Respaldo Duoc\Portafolio Ingenieria\iteracion 3\NoMasAcc2.0\DALC_01\bin\Debug\EntityFramework.SqlServer.xml
+D:\Respaldo\Respaldo Duoc\Portafolio Ingenieria\iteracion 3\NoMasAcc2.0\DALC_01\obj\Debug\DALC_01.csprojResolveAssemblyReference.cache
+D:\Respaldo\Respaldo Duoc\Portafolio Ingenieria\iteracion 3\NoMasAcc2.0\DALC_01\obj\Debug\DALC_01.dll
+D:\Respaldo\Respaldo Duoc\Portafolio Ingenieria\iteracion 3\NoMasAcc2.0\DALC_01\obj\Debug\DALC_01.pdb

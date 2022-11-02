@@ -1,0 +1,56 @@
+C:\Users\Zeit\Documents\Visual Studio 2015\Projects\NoMasAcc2.0\NoMasAcc2.0\obj\Debug\NoMasAcc2.0.csprojResolveAssemblyReference.cache
+C:\Users\Zeit\Documents\Visual Studio 2015\Projects\NoMasAcc2.0\NoMasAcc2.0\obj\Debug\NoMasAcc2._0.accidentes.MantenedorAccidentes.resources
+C:\Users\Zeit\Documents\Visual Studio 2015\Projects\NoMasAcc2.0\NoMasAcc2.0\obj\Debug\NoMasAcc2._0.actividades.MantenedorActividades.resources
+C:\Users\Zeit\Documents\Visual Studio 2015\Projects\NoMasAcc2.0\NoMasAcc2.0\obj\Debug\NoMasAcc2._0.atrasos.MantenedorAtrasos.resources
+C:\Users\Zeit\Documents\Visual Studio 2015\Projects\NoMasAcc2.0\NoMasAcc2.0\obj\Debug\NoMasAcc2._0.clientes.MantenedorCliente.resources
+C:\Users\Zeit\Documents\Visual Studio 2015\Projects\NoMasAcc2.0\NoMasAcc2.0\obj\Debug\NoMasAcc2._0.FormPrincipal.resources
+C:\Users\Zeit\Documents\Visual Studio 2015\Projects\NoMasAcc2.0\NoMasAcc2.0\obj\Debug\NoMasAcc2._0.pago.MantenedorPago.resources
+C:\Users\Zeit\Documents\Visual Studio 2015\Projects\NoMasAcc2.0\NoMasAcc2.0\obj\Debug\NoMasAcc2._0.plan.MantenedorPlan.resources
+C:\Users\Zeit\Documents\Visual Studio 2015\Projects\NoMasAcc2.0\NoMasAcc2.0\obj\Debug\NoMasAcc2._0.profesional.MantenedorProfesional.resources
+C:\Users\Zeit\Documents\Visual Studio 2015\Projects\NoMasAcc2.0\NoMasAcc2.0\obj\Debug\NoMasAcc2._0.Properties.Resources.resources
+C:\Users\Zeit\Documents\Visual Studio 2015\Projects\NoMasAcc2.0\NoMasAcc2.0\obj\Debug\NoMasAcc2.0.csproj.GenerateResource.Cache
+C:\Users\Zeit\Documents\Visual Studio 2015\Projects\NoMasAcc2.0\NoMasAcc2.0\bin\Debug\NoMasAcc2.0.exe.config
+C:\Users\Zeit\Documents\Visual Studio 2015\Projects\NoMasAcc2.0\NoMasAcc2.0\bin\Debug\NoMasAcc2.0.exe
+C:\Users\Zeit\Documents\Visual Studio 2015\Projects\NoMasAcc2.0\NoMasAcc2.0\bin\Debug\NoMasAcc2.0.pdb
+C:\Users\Zeit\Documents\Visual Studio 2015\Projects\NoMasAcc2.0\NoMasAcc2.0\bin\Debug\DALC_01.dll
+C:\Users\Zeit\Documents\Visual Studio 2015\Projects\NoMasAcc2.0\NoMasAcc2.0\bin\Debug\MetroFramework.Design.dll
+C:\Users\Zeit\Documents\Visual Studio 2015\Projects\NoMasAcc2.0\NoMasAcc2.0\bin\Debug\MetroFramework.dll
+C:\Users\Zeit\Documents\Visual Studio 2015\Projects\NoMasAcc2.0\NoMasAcc2.0\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Zeit\Documents\Visual Studio 2015\Projects\NoMasAcc2.0\NoMasAcc2.0\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Zeit\Documents\Visual Studio 2015\Projects\NoMasAcc2.0\NoMasAcc2.0\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Zeit\Documents\Visual Studio 2015\Projects\NoMasAcc2.0\NoMasAcc2.0\bin\Debug\DALC_01.pdb
+C:\Users\Zeit\Documents\Visual Studio 2015\Projects\NoMasAcc2.0\NoMasAcc2.0\obj\Debug\NoMasAcc2.0.exe
+C:\Users\Zeit\Documents\Visual Studio 2015\Projects\NoMasAcc2.0\NoMasAcc2.0\obj\Debug\NoMasAcc2.0.pdb
+C:\Users\Zeit\Documents\Visual Studio 2015\Projects\NoMasAcc2.0\NoMasAcc2.0\obj\Debug\NoMasAcc2._0.reporteCliente.MantenedorReporteCliente.resources
+C:\Users\Zeit\Documents\visual studio 2015\Projects\NoMasAcc2.0\NoMasAcc2.0\obj\Debug\NoMasAcc2._0.reporteGlobal.MantenedorReporteGlobal.resources
+C:\Users\Zeit\Documents\Visual Studio 2015\Projects\NoMasAcc2.0\NoMasAcc2.0\bin\Debug\itextsharp.dll
+C:\Users\Zeit\Documents\Visual Studio 2015\Projects\NoMasAcc2.0\NoMasAcc2.0\bin\Debug\itextsharp.xml
+C:\Users\Zeit\Documents\Visual Studio 2015\Projects\NoMasAcc2.0\NoMasAcc2.0\obj\Debug\NoMasAcc2._0.Login.resources
+D:\Respaldo\Respaldo Duoc\Portafolio Ingenieria\iteracion 3\NoMasAcc2.0\NoMasAcc2.0\bin\Debug\NoMasAcc2.0.exe.config
+D:\Respaldo\Respaldo Duoc\Portafolio Ingenieria\iteracion 3\NoMasAcc2.0\NoMasAcc2.0\obj\Debug\NoMasAcc2.0.exe
+D:\Respaldo\Respaldo Duoc\Portafolio Ingenieria\iteracion 3\NoMasAcc2.0\NoMasAcc2.0\obj\Debug\NoMasAcc2.0.pdb
+D:\Respaldo\Respaldo Duoc\Portafolio Ingenieria\iteracion 3\NoMasAcc2.0\NoMasAcc2.0\bin\Debug\NoMasAcc2.0.exe
+D:\Respaldo\Respaldo Duoc\Portafolio Ingenieria\iteracion 3\NoMasAcc2.0\NoMasAcc2.0\bin\Debug\NoMasAcc2.0.pdb
+D:\Respaldo\Respaldo Duoc\Portafolio Ingenieria\iteracion 3\NoMasAcc2.0\NoMasAcc2.0\bin\Debug\DALC_01.dll
+D:\Respaldo\Respaldo Duoc\Portafolio Ingenieria\iteracion 3\NoMasAcc2.0\NoMasAcc2.0\bin\Debug\itextsharp.dll
+D:\Respaldo\Respaldo Duoc\Portafolio Ingenieria\iteracion 3\NoMasAcc2.0\NoMasAcc2.0\bin\Debug\MetroFramework.Design.dll
+D:\Respaldo\Respaldo Duoc\Portafolio Ingenieria\iteracion 3\NoMasAcc2.0\NoMasAcc2.0\bin\Debug\MetroFramework.dll
+D:\Respaldo\Respaldo Duoc\Portafolio Ingenieria\iteracion 3\NoMasAcc2.0\NoMasAcc2.0\bin\Debug\MetroFramework.Fonts.dll
+D:\Respaldo\Respaldo Duoc\Portafolio Ingenieria\iteracion 3\NoMasAcc2.0\NoMasAcc2.0\bin\Debug\Oracle.DataAccess.dll
+D:\Respaldo\Respaldo Duoc\Portafolio Ingenieria\iteracion 3\NoMasAcc2.0\NoMasAcc2.0\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Respaldo\Respaldo Duoc\Portafolio Ingenieria\iteracion 3\NoMasAcc2.0\NoMasAcc2.0\bin\Debug\DALC_01.pdb
+D:\Respaldo\Respaldo Duoc\Portafolio Ingenieria\iteracion 3\NoMasAcc2.0\NoMasAcc2.0\bin\Debug\itextsharp.xml
+D:\Respaldo\Respaldo Duoc\Portafolio Ingenieria\iteracion 3\NoMasAcc2.0\NoMasAcc2.0\obj\Debug\NoMasAcc2.0.csprojResolveAssemblyReference.cache
+D:\Respaldo\Respaldo Duoc\Portafolio Ingenieria\iteracion 3\NoMasAcc2.0\NoMasAcc2.0\obj\Debug\NoMasAcc2._0.accidentes.MantenedorAccidentes.resources
+D:\Respaldo\Respaldo Duoc\Portafolio Ingenieria\iteracion 3\NoMasAcc2.0\NoMasAcc2.0\obj\Debug\NoMasAcc2._0.actividades.MantenedorActividades.resources
+D:\Respaldo\Respaldo Duoc\Portafolio Ingenieria\iteracion 3\NoMasAcc2.0\NoMasAcc2.0\obj\Debug\NoMasAcc2._0.atrasos.MantenedorAtrasos.resources
+D:\Respaldo\Respaldo Duoc\Portafolio Ingenieria\iteracion 3\NoMasAcc2.0\NoMasAcc2.0\obj\Debug\NoMasAcc2._0.clientes.MantenedorCliente.resources
+D:\Respaldo\Respaldo Duoc\Portafolio Ingenieria\iteracion 3\NoMasAcc2.0\NoMasAcc2.0\obj\Debug\NoMasAcc2._0.FormPrincipal.resources
+D:\Respaldo\Respaldo Duoc\Portafolio Ingenieria\iteracion 3\NoMasAcc2.0\NoMasAcc2.0\obj\Debug\NoMasAcc2._0.Login.resources
+D:\Respaldo\Respaldo Duoc\Portafolio Ingenieria\iteracion 3\NoMasAcc2.0\NoMasAcc2.0\obj\Debug\NoMasAcc2._0.pago.MantenedorPago.resources
+D:\Respaldo\Respaldo Duoc\Portafolio Ingenieria\iteracion 3\NoMasAcc2.0\NoMasAcc2.0\obj\Debug\NoMasAcc2._0.plan.MantenedorPlan.resources
+D:\Respaldo\Respaldo Duoc\Portafolio Ingenieria\iteracion 3\NoMasAcc2.0\NoMasAcc2.0\obj\Debug\NoMasAcc2._0.profesional.MantenedorProfesional.resources
+D:\Respaldo\Respaldo Duoc\Portafolio Ingenieria\iteracion 3\NoMasAcc2.0\NoMasAcc2.0\obj\Debug\NoMasAcc2._0.Properties.Resources.resources
+D:\Respaldo\Respaldo Duoc\Portafolio Ingenieria\iteracion 3\NoMasAcc2.0\NoMasAcc2.0\obj\Debug\NoMasAcc2._0.reporteCliente.MantenedorReporteCliente.resources
+D:\Respaldo\Respaldo Duoc\Portafolio Ingenieria\iteracion 3\NoMasAcc2.0\NoMasAcc2.0\obj\Debug\NoMasAcc2._0.reporteGlobal.MantenedorReporteGlobal.resources
+D:\Respaldo\Respaldo Duoc\Portafolio Ingenieria\iteracion 3\NoMasAcc2.0\NoMasAcc2.0\obj\Debug\NoMasAcc2.0.csproj.GenerateResource.Cache

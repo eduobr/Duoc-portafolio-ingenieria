@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{FC8EB3E9-1228-4EC8-828A-6CAE13AD5413}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>DALC_01</RootNamespace>
+    <AssemblyName>DALC_01</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x64</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.0.0\lib\net45\EntityFramework.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.0.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Oracle.DataAccess, Version=4.112.2.0, Culture=neutral, PublicKeyToken=89b483f429c47342, processorArchitecture=AMD64" />
+    <Reference Include="Oracle.ManagedDataAccess, Version=4.122.19.1, Culture=neutral, PublicKeyToken=89b483f429c47342, processorArchitecture=MSIL">
+      <HintPath>..\packages\Oracle.ManagedDataAccess.19.5.0\lib\net40\Oracle.ManagedDataAccess.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Oracle.ManagedDataAccess.EntityFramework, Version=6.122.19.1, Culture=neutral, PublicKeyToken=89b483f429c47342, processorArchitecture=MSIL">
+      <HintPath>..\packages\Oracle.ManagedDataAccess.EntityFramework.19.3.0\lib\net45\Oracle.ManagedDataAccess.EntityFramework.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.OracleClient" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="conexion\Cl_Conexion.cs" />
+    <Compile Include="conexion\Cl_Operaciones.cs" />
+    <Compile Include="controller\BoletaController.cs" />
+    <Compile Include="controller\CapacitacionController.cs" />
+    <Compile Include="controller\CheckListController.cs" />
+    <Compile Include="controller\CheckListReporteController.cs" />
+    <Compile Include="controller\CiudadController.cs" />
+    <Compile Include="controller\ClienteController.cs" />
+    <Compile Include="controller\ComunaController.cs" />
+    <Compile Include="controller\dbController.cs" />
+    <Compile Include="controller\DetalleBoletaController.cs" />
+    <Compile Include="controller\EventoController.cs" />
+    <Compile Include="controller\ModificacionCheckController.cs" />
+    <Compile Include="controller\PlanContratadoController.cs" />
+    <Compile Include="controller\ProfesionalController.cs" />
+    <Compile Include="controller\Reporte2Controller.cs" />
+    <Compile Include="controller\ReporteController.cs" />
+    <Compile Include="controller\RubroController.cs" />
+    <Compile Include="controller\ServicioController.cs" />
+    <Compile Include="controller\TipoEventoController.cs" />
+    <Compile Include="controller\TipoUsuarioController.cs" />
+    <Compile Include="controller\UbicacionController.cs" />
+    <Compile Include="controller\UsuarioController.cs" />
+    <Compile Include="controller\VisitaController.cs" />
+    <Compile Include="modelo\Accidente.cs" />
+    <Compile Include="modelo\Boleta.cs" />
+    <Compile Include="modelo\Capacitacion.cs" />
+    <Compile Include="modelo\CheckList.cs" />
+    <Compile Include="modelo\CheckListReporte.cs" />
+    <Compile Include="modelo\Ciudad.cs" />
+    <Compile Include="modelo\Cliente.cs" />
+    <Compile Include="modelo\Comuna.cs" />
+    <Compile Include="modelo\Comunas.cs" />
+    <Compile Include="modelo\DetalleBoleta.cs" />
+    <Compile Include="modelo\Evento.cs" />
+    <Compile Include="modelo\ModificarCheck.cs" />
+    <Compile Include="modelo\PlanContratado.cs" />
+    <Compile Include="modelo\Profesional.cs" />
+    <Compile Include="modelo\Reporte.cs" />
+    <Compile Include="modelo\Reporte2.cs" />
+    <Compile Include="modelo\Rubro.cs" />
+    <Compile Include="modelo\Servicio.cs" />
+    <Compile Include="modelo\TipoEvento.cs" />
+    <Compile Include="modelo\TipoUsuario.cs" />
+    <Compile Include="modelo\Ubicacion.cs" />
+    <Compile Include="modelo\Usuario.cs" />
+    <Compile Include="modelo\Visita.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

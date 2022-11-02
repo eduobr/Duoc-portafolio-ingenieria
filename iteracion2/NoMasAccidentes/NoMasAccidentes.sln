@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NoMasAccidentes", "NoMasAccidentes\NoMasAccidentes.csproj", "{7A5B7C12-9DDE-4C4F-A5FE-578FA22E8CAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DALC_01", "DALC_01\DALC_01.csproj", "{17DD03F3-81C6-4257-9862-B6F5B507D112}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A5B7C12-9DDE-4C4F-A5FE-578FA22E8CAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A5B7C12-9DDE-4C4F-A5FE-578FA22E8CAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A5B7C12-9DDE-4C4F-A5FE-578FA22E8CAF}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A5B7C12-9DDE-4C4F-A5FE-578FA22E8CAF}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{17DD03F3-81C6-4257-9862-B6F5B507D112}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17DD03F3-81C6-4257-9862-B6F5B507D112}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17DD03F3-81C6-4257-9862-B6F5B507D112}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17DD03F3-81C6-4257-9862-B6F5B507D112}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC55D10E-FA8D-497D-A215-FC3B42BDCA4D}
+	EndGlobalSection
+EndGlobal

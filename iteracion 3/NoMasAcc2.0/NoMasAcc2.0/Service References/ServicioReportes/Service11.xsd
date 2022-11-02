@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/DALC.modelo" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/DALC.modelo" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:complexType name="ArrayOfReporteCliente">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="ReporteCliente" nillable="true" type="tns:ReporteCliente" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfReporteCliente" nillable="true" type="tns:ArrayOfReporteCliente" />
+  <xs:complexType name="ReporteCliente">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="accidentes" type="xs:int" />
+      <xs:element minOccurs="0" name="capacitaciones" type="xs:int" />
+      <xs:element minOccurs="0" name="empresa" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="fecha" type="xs:dateTime" />
+      <xs:element minOccurs="0" name="idReporte" type="xs:int" />
+      <xs:element minOccurs="0" name="multas" type="xs:int" />
+      <xs:element minOccurs="0" name="nombreCliente" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="nombreProfesional" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="rutCliente" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="rutProfesional" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="visitas" type="xs:int" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ReporteCliente" nillable="true" type="tns:ReporteCliente" />
+  <xs:complexType name="ArrayOfReporteGlobal">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="ReporteGlobal" nillable="true" type="tns:ReporteGlobal" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfReporteGlobal" nillable="true" type="tns:ArrayOfReporteGlobal" />
+  <xs:complexType name="ReporteGlobal">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="cantidad_clientes" type="xs:int" />
+      <xs:element minOccurs="0" name="cantidad_profesionales" type="xs:int" />
+      <xs:element minOccurs="0" name="fecha" type="xs:dateTime" />
+      <xs:element minOccurs="0" name="idReporte" type="xs:int" />
+      <xs:element minOccurs="0" name="planes_activos" type="xs:int" />
+      <xs:element minOccurs="0" name="planes_inactivos" type="xs:int" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ReporteGlobal" nillable="true" type="tns:ReporteGlobal" />
+</xs:schema>

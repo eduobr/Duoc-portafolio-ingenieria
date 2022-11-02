@@ -1,0 +1,17 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace BibliotecaEntidades
+{
+    public class CL_Capacitacion
+    {
+        public int idCapacitacion { get; set; }
+        public DateTime fechaCapacitacion { get; set; }
+        public string desCapacitacion { get; set; }
+        public int cantAsistentes { get; set; }
+        public int idplan { get; set; }
+    }
+}
